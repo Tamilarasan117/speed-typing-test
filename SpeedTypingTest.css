@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-cont {
+    background-image: linear-gradient(160deg,lightblue,rgb(230, 173, 225));
+    background-size: cover;
+    padding: 15px;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    color: #690cb0;
+    font-weight: bold;
+}
+
+.text {
+    font-weight: bold;
+    color: #3e4c59;
+    margin-top: 7px;
+    font-size: 18px;
+}
+
+.para5 {
+    font-size: 18px;
+    color: #3e4c59;
+    font-weight: bold;
+    margin-top: 7px;
+}
+
+.img {
+    width: 55px;
+    height: 55px;
+}
+
+.time {
+    font-size: 40px;
+}
+
+.second {
+    color: #3e4c59;
+}
+
+.quote-cont {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: #f2ebfe;
+    padding: 10px;
+}
+
+.quote-para {
+    color: #323f4b;
+    font-size: 22px;
+}
+
+.user-quote {
+    color: #323f4b;
+    font-size: 22px;
+}
